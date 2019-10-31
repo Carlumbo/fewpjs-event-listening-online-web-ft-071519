@@ -5,4 +5,3 @@ function addingEventListener(){
     return "clicked"
   });
 }
-
