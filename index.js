@@ -12,5 +12,5 @@ function addingEventListener() {
 const main = document.querySelector('main')
 
 main.addEventListener('click', function(event){
-  alert('I was also clicked')
+  return "http://youtube.come"
 })
